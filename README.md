@@ -60,7 +60,8 @@ ET = {3}
 
 ## Dataset split
 
-The experiments use the labeled BraTS 2023 adult glioma cohort.
+The experiments use the labeled [BraTS 2023 adult glioma cohort](https://www.synapse.org/Synapse:syn51156910/wiki/621282).
+
 
 The internal split used in the paper is:
 
