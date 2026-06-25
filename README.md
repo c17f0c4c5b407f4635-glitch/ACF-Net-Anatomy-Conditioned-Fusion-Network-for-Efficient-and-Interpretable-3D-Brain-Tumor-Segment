@@ -136,7 +136,3 @@ Model size:
 ```text
 30.37M trainable parameters
 ```
-
-## Notes
-
-The notebooks are provided as reproducibility materials for the paper. External comparison rows in the paper are contextual and are not controlled same-split comparisons. Parameter estimates for non-ACF-Net models are approximate unless directly reported by the original source.
